@@ -1,7 +1,3 @@
-layout: page
-title: "asm2hex"
-permalink: /asm2hex
-
 This page contains a running blog of my asm2hex project, which uses regex parsing to convert RISC-V assembly into a raw hex file format that could be used in computer simulation.
 
 This is intended to function as one small part of a larger toolchain that will eventually allow C programs to be compiled into RISC-V asssembly, converted to a hex file, and then run on a simulated or FPGA-based custom processor.
