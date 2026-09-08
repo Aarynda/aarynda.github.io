@@ -1,5 +1,5 @@
-## Intro
-My name is Alex Tauriainen, and I am a computer engineer by trade. My interests span a wide range of topics within computer engineering, from computer hardware architecture to computer systems design and the entire computing software stack.
+# Intro
+My name is <a href="https://www.linkedin.com/in/alex-tauriainen/">Alex Tauriainen</a>, and I am a computer engineer by trade. My interests span a wide range of topics within computer engineering, from computer hardware architecture to computer systems design and the entire computing software stack.
 This site holds documentation for my personal projects, as well as occasional reports or remarks on recent papers or developments in my fields of interest.
 
 ## Personal Projects
@@ -25,7 +25,7 @@ Personal projects listed here are all intended to be part of a cohesive toolchai
 
 
 ## Academic History
-# MSECE, Purdue University, Aug 2025 - May 2027
+### MSECE, Purdue University, Aug 2025 - May 2027
 Relevant Coursework:
 * Computer Architecture (Fall 2026)
     * Extension of undergraduate computer architecture, including new topics of out-of-order processing, and pivoting project work from Verilog development to C simulation utilizing the Gem5 simulator.
@@ -37,8 +37,8 @@ Relevant Coursework:
     * Project-based course covering parsing, code generation and common optimizations, culminating in the development of a compiler from MicroC code to RISC-V Assembly. Written in Java.
 * Artificial Intelligence (Fall 2025)
     * Lecture and Project-based course covering the mathematical foundations of modern artificial intelligence models, with an open-ended research and design project. Selected project was a neural network-based correlating branch predictor. Simulation written in Python.
-    
-# BSCmpE, Purdue University, Aug 2023 - May 2026
+
+### BSCmpE, Purdue University, Aug 2023 - May 2026
 Relevant Coursework: 
 * Processor Prototyping and Design/Undergraduate Computer Architecture
     * Lecture and project-based course. Project iteratively develops a RISC-V processor, progressing from simple single-cycle, to a standard 5-stage pipeline, adding instruction and data cache, and then finally implementing a two-core design with MSI cache coherency protocol. All processors implemented in Verilog, simulated with Vivado toolchain, and then finally verified on Xilinx FPGAs.
