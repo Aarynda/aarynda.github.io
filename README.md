@@ -1,6 +1,5 @@
-<!DOCTYPE html>
 <head>
-    <link rel="stylesheet" href="style.scss">
+    <link rel="stylesheet" href="assets\css\style.scss">
 </head>
 
 # Intro
