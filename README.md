@@ -13,7 +13,7 @@ Personal projects listed here are all intended to be part of a cohesive toolchai
 
 <a href="asm2hex.html">
     <button>
-        asm2hex Project
+        asm2hex (RISC-V assembler) Project
     </button>
 </a>
 
@@ -29,7 +29,7 @@ Personal projects listed here are all intended to be part of a cohesive toolchai
 Relevant Coursework:
 * Computer Architecture (Fall 2026)
     * Extension of undergraduate computer architecture, including new topics of out-of-order processing, and pivoting project work from Verilog development to C simulation utilizing the Gem5 simulator.
-* Intro to Algorithms (Fall 2026)
+* Algorithms and Complexity (Fall 2026)
     * Pure lecture course focused on more rigorous mathematical analysis of algorithms and the introduction of more specific algorithms, such as the Fast Fourier Transform and accelerated matrix multiplication algorithms.
 * MOS VLSI Design (Fall 2026)
     * Project-based course focusing on the implementation and layout of larger digital circuits in Cadence Virtuoso.
