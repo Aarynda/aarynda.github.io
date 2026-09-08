@@ -7,8 +7,8 @@ The current Verilog implementation of the processor is a simple single-cycle CPU
 ## Roadmap
 <table border="0">
 <tr>
-<td><bold>Processor Core</bold></td>
-<td><bold>Peripherals</bold></td>
+<td><h3><bold>Processor Core</bold></h3></td>
+<td><h3><bold>Peripherals</bold></h3></td>
 </tr>
 <tr>
 <td>Standard 5-stage Pipeline</td>
@@ -27,18 +27,6 @@ The current Verilog implementation of the processor is a simple single-cycle CPU
 <td></td>
 </tr>
 </table>
-
-<!-- ## Processor Core
-#### Concrete Plans
-* Standard 5-stage Pipeline
-* Addition of Floating-Point Unit and support for RV32F
-* Parameterizable Caches
-#### Farther future plans
-* Out-of-order processing -->
-
-### Peripherals
-* VGA Text Output
-* Simple Keyboard Input
 
 
 ## Milestone Versions/Archive
