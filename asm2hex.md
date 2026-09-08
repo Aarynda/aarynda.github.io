@@ -9,11 +9,12 @@ Future steps for this project will include finishing support for the rest of the
 
 | Extension | Level of Support |
 |:---:|:---:|
-|RV32I|In Progress|
+|RV32I|Complete|
 |RV32M|No|
 |RV32A|No|
-|RV32F|No|
+|RV32F|In Progress|
 |RV32D|No|
 |RV32C|No|
 |RV32B|No|
 |RV32V|No|
+|Push/Pop|No|
