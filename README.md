@@ -27,6 +27,14 @@ Personal projects listed here are all intended to be part of a cohesive toolchai
     </button>
 </a>
 
+### Updates
+<a href="Milestone_1.html">
+    <button>
+        First Complete Run from C to CPU
+    </button>
+</a>
+
+
 
 ## Academic History
 ### MSECE, Purdue University, Aug 2025 - May 2027
