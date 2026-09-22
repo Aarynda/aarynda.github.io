@@ -30,5 +30,5 @@ The current Verilog implementation of the processor is a simple single-cycle CPU
 
 
 ## Milestone Versions/Archive
-* Single-cycle Re-implementation
+* <a href="processor_specs/alpha_rev.md">Single-cycle Re-implementation</a>
 
