@@ -30,10 +30,15 @@ Personal projects listed here are all intended to be part of a cohesive toolchai
 ### Updates
 <a href="Milestone_1.html">
     <button>
-        First Complete Run from C to CPU
+        First Complete Run from C to CPU!
     </button>
 </a>
 
+<a href="dev_logs\9_26_mult_compilation.html">
+    <button>
+        Multiplication with limited ISAs
+    </button>
+</a>
 
 
 ## Academic History
